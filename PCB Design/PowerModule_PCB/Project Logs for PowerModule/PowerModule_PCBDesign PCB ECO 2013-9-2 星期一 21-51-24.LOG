@@ -1,0 +1,6 @@
+Added Component: Designator=Term2(Terminal Block 3 Pin)
+Added Pin To Net: NetName=UOUT Pin=Term2-1
+Added Pin To Net: NetName=VOUT Pin=Term2-2
+Added Pin To Net: NetName=WOUT Pin=Term2-3
+Added Member To Class: ClassName=PowerModule_Schematic Member=Component Term2 Terminal Block 3P
+Added Room: Name=PowerModule_Schematic

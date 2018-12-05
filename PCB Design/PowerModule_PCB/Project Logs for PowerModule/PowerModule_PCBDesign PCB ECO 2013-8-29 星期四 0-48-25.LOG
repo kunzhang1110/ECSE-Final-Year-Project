@@ -1,0 +1,156 @@
+Added Component: Designator=C1(NPolar_Cap)
+Added Component: Designator=C2(NPolar_Cap)
+Added Component: Designator=C3(NPolar_Cap)
+Added Component: Designator=C4(NPolar_Cap)
+Added Component: Designator=C5(NPolar_Cap)
+Added Component: Designator=C6(NPolar_Cap)
+Added Component: Designator=C7(NPolar_Cap)
+Added Component: Designator=C8(NPolar_Cap)
+Added Component: Designator=C9(NPolar_Cap)
+Added Component: Designator=C10(NPolar_Cap)
+Added Component: Designator=C11(NPolar_Cap)
+Added Component: Designator=C12(NPolar_Cap)
+Added Component: Designator=C13(Polar_Cap)
+Added Component: Designator=C14(NPolar_Cap)
+Added Component: Designator=C15(Polar_Cap)
+Added Component: Designator=C16(NPolar_Cap)
+Added Component: Designator=C17(Polar_Cap)
+Added Component: Designator=Fault_Out(HDR1X2)
+Added Component: Designator=PMod(FSBB20CH60F)
+Added Component: Designator=PWM_IN(HDR2X4)
+Added Component: Designator=R1(AXIAL-0.3)
+Added Component: Designator=R2(AXIAL-0.3)
+Added Component: Designator=R3(AXIAL-0.3)
+Added Component: Designator=R4(AXIAL-0.3)
+Added Component: Designator=R5(AXIAL-0.3)
+Added Component: Designator=R6(AXIAL-0.3)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=Term1(Terminal Block 2 Pin)
+Added Component: Designator=Term2(Terminal Block 3 Pin)
+Added Component: Designator=Term3(Terminal Block 3 Pin)
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Net: Name=5V
+Added Pin To Net: NetName=15V Pin=C9-2
+Added Pin To Net: NetName=15V Pin=PMod-1
+Added Pin To Net: NetName=15V Pin=PMod-10
+Added Pin To Net: NetName=15V Pin=PMod-14
+Added Pin To Net: NetName=15V Pin=PMod-18
+Added Pin To Net: NetName=15V Pin=PWM_IN-8
+Added Net: Name=15V
+Added Pin To Net: NetName=DGND Pin=C1-1
+Added Pin To Net: NetName=DGND Pin=C2-1
+Added Pin To Net: NetName=DGND Pin=C3-1
+Added Pin To Net: NetName=DGND Pin=C4-1
+Added Pin To Net: NetName=DGND Pin=C5-1
+Added Pin To Net: NetName=DGND Pin=C6-1
+Added Pin To Net: NetName=DGND Pin=C7-1
+Added Pin To Net: NetName=DGND Pin=C8-1
+Added Pin To Net: NetName=DGND Pin=C9-1
+Added Pin To Net: NetName=DGND Pin=PMod-2
+Added Pin To Net: NetName=DGND Pin=PWM_IN-7
+Added Pin To Net: NetName=DGND Pin=Term3-3
+Added Net: Name=DGND
+Added Pin To Net: NetName=FO Pin=C7-2
+Added Pin To Net: NetName=FO Pin=Fault_Out-1
+Added Pin To Net: NetName=FO Pin=PMod-6
+Added Pin To Net: NetName=FO Pin=R8-1
+Added Net: Name=FO
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=PMod-7
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=PMod-21
+Added Pin To Net: NetName=NetC10_2 Pin=PMod-22
+Added Pin To Net: NetName=NetC10_2 Pin=PMod-23
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=PGND Pin=C10-1
+Added Pin To Net: NetName=PGND Pin=C11-1
+Added Pin To Net: NetName=PGND Pin=Term1-2
+Added Net: Name=PGND
+Added Pin To Net: NetName=REG1_IN Pin=Term3-1
+Added Net: Name=REG1_IN
+Added Pin To Net: NetName=REG2_IN Pin=Term3-2
+Added Net: Name=REG2_IN
+Added Pin To Net: NetName=UH' Pin=C1-2
+Added Pin To Net: NetName=UH' Pin=PMod-9
+Added Pin To Net: NetName=UH' Pin=R1-2
+Added Net: Name=UH'
+Added Pin To Net: NetName=UH Pin=PWM_IN-1
+Added Pin To Net: NetName=UH Pin=R1-1
+Added Net: Name=UH
+Added Pin To Net: NetName=UL' Pin=C2-2
+Added Pin To Net: NetName=UL' Pin=PMod-3
+Added Pin To Net: NetName=UL' Pin=R2-2
+Added Net: Name=UL'
+Added Pin To Net: NetName=UL Pin=PWM_IN-2
+Added Pin To Net: NetName=UL Pin=R2-1
+Added Net: Name=UL
+Added Pin To Net: NetName=UOUT' Pin=PMod-24
+Added Net: Name=UOUT'
+Added Pin To Net: NetName=UOUT Pin=Term2-1
+Added Net: Name=UOUT
+Added Pin To Net: NetName=V_DC Pin=C11-2
+Added Pin To Net: NetName=V_DC Pin=PMod-27
+Added Pin To Net: NetName=V_DC Pin=Term1-1
+Added Net: Name=V_DC
+Added Pin To Net: NetName=VB(U) Pin=C12-2
+Added Pin To Net: NetName=VB(U) Pin=C13-1
+Added Pin To Net: NetName=VB(U) Pin=PMod-11
+Added Net: Name=VB(U)
+Added Pin To Net: NetName=VB(V) Pin=C14-2
+Added Pin To Net: NetName=VB(V) Pin=C15-1
+Added Pin To Net: NetName=VB(V) Pin=PMod-15
+Added Net: Name=VB(V)
+Added Pin To Net: NetName=VB(W) Pin=C16-2
+Added Pin To Net: NetName=VB(W) Pin=C17-1
+Added Pin To Net: NetName=VB(W) Pin=PMod-19
+Added Net: Name=VB(W)
+Added Pin To Net: NetName=VH' Pin=C3-2
+Added Pin To Net: NetName=VH' Pin=PMod-13
+Added Pin To Net: NetName=VH' Pin=R3-2
+Added Net: Name=VH'
+Added Pin To Net: NetName=VH Pin=PWM_IN-5
+Added Pin To Net: NetName=VH Pin=R3-1
+Added Net: Name=VH
+Added Pin To Net: NetName=VL' Pin=C4-2
+Added Pin To Net: NetName=VL' Pin=PMod-4
+Added Pin To Net: NetName=VL' Pin=R4-2
+Added Net: Name=VL'
+Added Pin To Net: NetName=VL Pin=PWM_IN-6
+Added Pin To Net: NetName=VL Pin=R4-1
+Added Net: Name=VL
+Added Pin To Net: NetName=VOUT' Pin=PMod-25
+Added Net: Name=VOUT'
+Added Pin To Net: NetName=VOUT Pin=Term2-2
+Added Net: Name=VOUT
+Added Pin To Net: NetName=VS(U) Pin=C12-1
+Added Pin To Net: NetName=VS(U) Pin=C13-2
+Added Pin To Net: NetName=VS(U) Pin=PMod-12
+Added Net: Name=VS(U)
+Added Pin To Net: NetName=VS(V) Pin=C14-1
+Added Pin To Net: NetName=VS(V) Pin=C15-2
+Added Pin To Net: NetName=VS(V) Pin=PMod-16
+Added Net: Name=VS(V)
+Added Pin To Net: NetName=VS(W) Pin=C16-1
+Added Pin To Net: NetName=VS(W) Pin=C17-2
+Added Pin To Net: NetName=VS(W) Pin=PMod-20
+Added Net: Name=VS(W)
+Added Pin To Net: NetName=WH' Pin=C5-2
+Added Pin To Net: NetName=WH' Pin=PMod-17
+Added Pin To Net: NetName=WH' Pin=R5-2
+Added Net: Name=WH'
+Added Pin To Net: NetName=WH Pin=PWM_IN-3
+Added Pin To Net: NetName=WH Pin=R5-1
+Added Net: Name=WH
+Added Pin To Net: NetName=WL' Pin=C6-2
+Added Pin To Net: NetName=WL' Pin=PMod-5
+Added Pin To Net: NetName=WL' Pin=R6-2
+Added Net: Name=WL'
+Added Pin To Net: NetName=WL Pin=PWM_IN-4
+Added Pin To Net: NetName=WL Pin=R6-1
+Added Net: Name=WL
+Added Pin To Net: NetName=WOUT Pin=PMod-26
+Added Pin To Net: NetName=WOUT Pin=Term2-3
+Added Net: Name=WOUT
+Added Class: Name=PowerModule_Schematic
+Added Room: Name=PowerModule_Schematic

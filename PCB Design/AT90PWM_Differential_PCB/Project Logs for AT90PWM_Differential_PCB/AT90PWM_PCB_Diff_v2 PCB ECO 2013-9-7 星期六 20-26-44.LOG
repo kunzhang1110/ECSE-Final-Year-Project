@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=SCK_A Pin=JTAG-1
+Removed Pin From Net: NetName=DGND Pin=JTAG-2
+Removed Pin From Net: NetName=MISO_A Pin=JTAG-3
+Removed Pin From Net: NetName=5V Pin=JTAG-4
+Removed Pin From Net: NetName=\R\E\S\E\T\ Pin=JTAG-6
+Removed Pin From Net: NetName=MOSI_A Pin=JTAG-9
+Removed Pin From Net: NetName=DGND Pin=JTAG-10
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Added Component: Designator=ISP(HDR2X3)
+Added Pin To Net: NetName=MOSI_A Pin=ISP-1
+Added Pin To Net: NetName=5V Pin=ISP-2
+Added Pin To Net: NetName=SCK_A Pin=ISP-3
+Added Pin To Net: NetName=MISO_A Pin=ISP-4
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=ISP-5
+Added Pin To Net: NetName=DGND Pin=ISP-6
+Added Member To Class: ClassName=AT90PWM_PCB_Diff Member=Component ISP Header 3X2
+Added Member To Class: ClassName=AT90PWM_PCB_Diff Member=Component J1 D Connector 9
+Added Room: Name=AT90PWM_PCB_Diff

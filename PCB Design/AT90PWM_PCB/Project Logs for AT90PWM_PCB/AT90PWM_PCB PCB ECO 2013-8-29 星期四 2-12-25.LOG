@@ -1,0 +1,74 @@
+Added Component: Designator=C1(NPolar_Cap)
+Added Component: Designator=C2(NPolar_Cap)
+Added Component: Designator=JTAG(HDR2X5)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=P2(HDR1X2)
+Added Component: Designator=P3(HDR1X3)
+Added Component: Designator=P?(HDR2X3)
+Added Component: Designator=U1(AT90PWM3B)
+Added Pin To Net: NetName=5V Pin=C1-2
+Added Pin To Net: NetName=5V Pin=JTAG-2
+Added Pin To Net: NetName=5V Pin=P3-3
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=5V Pin=U1-23
+Added Net: Name=5V
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=JTAG-5
+Added Net: Name=\R\E\S\E\T\
+Added Pin To Net: NetName=AGND Pin=C1-1
+Added Pin To Net: NetName=AGND Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=P3-2
+Added Pin To Net: NetName=AGND Pin=U1-24
+Added Net: Name=AGND
+Added Pin To Net: NetName=DGND Pin=JTAG-4
+Added Pin To Net: NetName=DGND Pin=JTAG-6
+Added Pin To Net: NetName=DGND Pin=JTAG-8
+Added Pin To Net: NetName=DGND Pin=JTAG-10
+Added Pin To Net: NetName=DGND Pin=P3-1
+Added Pin To Net: NetName=DGND Pin=U1-9
+Added Net: Name=DGND
+Added Pin To Net: NetName=FO Pin=U1-7
+Added Net: Name=FO
+Added Pin To Net: NetName=ISEN_1 Pin=P1-1
+Added Pin To Net: NetName=ISEN_1 Pin=U1-17
+Added Net: Name=ISEN_1
+Added Pin To Net: NetName=ISEN_2 Pin=P1-2
+Added Pin To Net: NetName=ISEN_2 Pin=U1-18
+Added Net: Name=ISEN_2
+Added Pin To Net: NetName=MISO_A Pin=JTAG-9
+Added Pin To Net: NetName=MISO_A Pin=U1-5
+Added Net: Name=MISO_A
+Added Pin To Net: NetName=MOSI_A Pin=JTAG-1
+Added Pin To Net: NetName=MOSI_A Pin=U1-6
+Added Net: Name=MOSI_A
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=U1-25
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=REF_1 Pin=P2-1
+Added Pin To Net: NetName=REF_1 Pin=U1-21
+Added Net: Name=REF_1
+Added Pin To Net: NetName=REF_2 Pin=P2-2
+Added Pin To Net: NetName=REF_2 Pin=U1-22
+Added Net: Name=REF_2
+Added Pin To Net: NetName=SCK_A Pin=JTAG-7
+Added Pin To Net: NetName=SCK_A Pin=U1-16
+Added Net: Name=SCK_A
+Added Pin To Net: NetName=UH Pin=P?-1
+Added Pin To Net: NetName=UH Pin=U1-1
+Added Net: Name=UH
+Added Pin To Net: NetName=UL Pin=P?-2
+Added Pin To Net: NetName=UL Pin=U1-32
+Added Net: Name=UL
+Added Pin To Net: NetName=VH Pin=P?-5
+Added Pin To Net: NetName=VH Pin=U1-2
+Added Net: Name=VH
+Added Pin To Net: NetName=VL Pin=P?-6
+Added Pin To Net: NetName=VL Pin=U1-31
+Added Net: Name=VL
+Added Pin To Net: NetName=WH Pin=P?-3
+Added Pin To Net: NetName=WH Pin=U1-12
+Added Net: Name=WH
+Added Pin To Net: NetName=WL Pin=P?-4
+Added Pin To Net: NetName=WL Pin=U1-13
+Added Net: Name=WL
+Added Class: Name=AT90PWM_PCB
+Added Room: Name=AT90PWM_PCB

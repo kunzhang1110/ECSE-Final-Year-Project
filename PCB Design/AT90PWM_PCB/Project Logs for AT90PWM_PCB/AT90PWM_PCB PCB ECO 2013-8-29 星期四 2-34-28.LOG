@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=WH Pin=P4-3
+Removed Pin From Net: NetName=WL Pin=P4-4
+Removed Pin From Net: NetName=VH Pin=P4-5
+Removed Pin From Net: NetName=VL Pin=P4-6
+Added Pin To Net: NetName=VH Pin=P4-3
+Added Pin To Net: NetName=VL Pin=P4-4
+Added Pin To Net: NetName=WL Pin=P4-5
+Added Pin To Net: NetName=WH Pin=P4-6
+Added Room: Name=AT90PWM_PCB

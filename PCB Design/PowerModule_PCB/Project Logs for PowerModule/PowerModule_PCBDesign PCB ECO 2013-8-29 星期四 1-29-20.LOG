@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=UH Pin=PWM_IN-1
+Removed Pin From Net: NetName=UL Pin=PWM_IN-2
+Removed Pin From Net: NetName=WH Pin=PWM_IN-3
+Removed Pin From Net: NetName=WL Pin=PWM_IN-4
+Removed Pin From Net: NetName=VH Pin=PWM_IN-5
+Removed Pin From Net: NetName=VL Pin=PWM_IN-6
+Added Pin To Net: NetName=WL Pin=PWM_IN-1
+Added Pin To Net: NetName=UH Pin=PWM_IN-2
+Added Pin To Net: NetName=VL Pin=PWM_IN-3
+Added Pin To Net: NetName=VH Pin=PWM_IN-4
+Added Pin To Net: NetName=UL Pin=PWM_IN-5
+Added Pin To Net: NetName=WH Pin=PWM_IN-6
+Added Room: Name=PowerModule_Schematic

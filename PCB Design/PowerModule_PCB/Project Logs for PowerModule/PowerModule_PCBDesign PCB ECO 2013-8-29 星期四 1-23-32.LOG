@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=15V Pin=Reg2-2
+Removed Pin From Net: NetName=DGND Pin=Reg2-3
+Change Component Comment : Designator=Reg2 Old Comment=U7815 New Comment=U7800
+Added Pin To Net: NetName=DGND Pin=Reg2-2
+Added Pin To Net: NetName=15V Pin=Reg2-3
+Added Room: Name=PowerModule_Schematic

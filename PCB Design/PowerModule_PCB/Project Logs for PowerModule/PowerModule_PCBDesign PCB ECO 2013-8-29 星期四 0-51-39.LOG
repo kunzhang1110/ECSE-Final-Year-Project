@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=UOUT Pin=PMod-24
+Added Pin To Net: NetName=VOUT Pin=PMod-25
+Added Room: Name=PowerModule_Schematic

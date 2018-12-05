@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=5V Pin=Term3-1
+Removed Pin From Net: NetName=15V Pin=Term3-2
+Added Pin To Net: NetName=REG1_IN Pin=Reg1-1
+Added Pin To Net: NetName=REG1_IN Pin=Term3-1
+Added Net: Name=REG1_IN
+Added Pin To Net: NetName=REG2_IN Pin=Reg2-1
+Added Pin To Net: NetName=REG2_IN Pin=Term3-2
+Added Net: Name=REG2_IN
+Added Room: Name=MyBoard_v1

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DGND Pin=Term3-3
+Removed Member From Class: ClassName=PowerModule_Schematic Member=Term3
+Added Room: Name=PowerModule_Schematic

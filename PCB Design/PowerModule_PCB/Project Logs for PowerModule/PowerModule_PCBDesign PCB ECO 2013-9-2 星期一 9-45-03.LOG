@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=PGND Pin=C10-1
+Removed Member From Class: ClassName=PowerModule_Schematic Member=C10
+Added Component: Designator=R9(AXIAL-0.3)
+Added Component: Designator=R10(AXIAL-0.3)
+Added Pin To Net: NetName=PGND Pin=R9-1
+Added Pin To Net: NetName=CSC Pin=PMod-8
+Added Pin To Net: NetName=CSC Pin=R10-1
+Added Net: Name=CSC
+Added Pin To Net: NetName=NetPMod_21 Pin=PMod-21
+Added Pin To Net: NetName=NetPMod_21 Pin=PMod-22
+Added Pin To Net: NetName=NetPMod_21 Pin=PMod-23
+Added Pin To Net: NetName=NetPMod_21 Pin=R9-2
+Added Pin To Net: NetName=NetPMod_21 Pin=R10-2
+Added Net: Name=NetPMod_21
+Added Member To Class: ClassName=PowerModule_Schematic Member=Component R9 Res1
+Added Member To Class: ClassName=PowerModule_Schematic Member=Component R10 Res1
+Added Room: Name=PowerModule_Schematic

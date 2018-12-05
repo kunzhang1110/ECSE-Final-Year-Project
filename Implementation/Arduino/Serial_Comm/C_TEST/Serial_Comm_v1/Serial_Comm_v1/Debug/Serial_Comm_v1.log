@@ -1,0 +1,22 @@
+﻿Build started 15/10/2013 7:56:51 PM.
+     1>Project "E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Serial_Comm_v1\Serial_Comm_v1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Serial_Comm_v1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt Serial_Comm_v1_C.c
+         Serial_Comm_v1_C.c
+     1>e:\fyp (kun 2013 10 6)\codes\arduino\serial_comm\c_test\serial_comm_v1\serial_comm_v1\serial_comm_v1_c.c(14): warning C4047: '=' : 'int' differs in levels of indirection from 'char [4]'
+     1>e:\fyp (kun 2013 10 6)\codes\arduino\serial_comm\c_test\serial_comm_v1\serial_comm_v1\serial_comm_v1_c.c(14): warning C4789: destination of memory copy is too small
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Debug\Serial_Comm_v1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Serial_Comm_v1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Debug\Serial_Comm_v1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Debug\Serial_Comm_v1.lib" /MACHINE:X86 Debug\Serial_Comm_v1_C.obj
+         Serial_Comm_v1.vcxproj -> E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Debug\Serial_Comm_v1.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Debug\Serial_Comm_v1.exe;#1" /manifest Debug\Serial_Comm_v1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\Serial_Comm_v1.unsuccessfulbuild".
+         Touching "Debug\Serial_Comm_v1.lastbuildstate".
+     1>Done Building Project "E:\FYP (Kun 2013 10 6)\Codes\Arduino\Serial_Comm\C_TEST\Serial_Comm_v1\Serial_Comm_v1\Serial_Comm_v1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.16

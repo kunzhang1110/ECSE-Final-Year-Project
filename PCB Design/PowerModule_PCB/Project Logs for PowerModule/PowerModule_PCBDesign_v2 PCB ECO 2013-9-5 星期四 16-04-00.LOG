@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=5V Pin=Fault_Out-2
+Change Component Designator: OldDesignator=Fault_Out NewDesignator=Power
+Added Room: Name=PowerModule_Schematic

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=AGND Pin=P1-1
+Removed Pin From Net: NetName=AGND Pin=P2-1
+Removed Pin From Net: NetName=AGND Pin=U1-21
+Removed Pin From Net: NetName=AGND Pin=U1-27
+Added Pin To Net: NetName=SEN_GND Pin=P1-1
+Added Pin To Net: NetName=SEN_GND Pin=P2-1
+Added Pin To Net: NetName=SEN_GND Pin=U1-21
+Added Pin To Net: NetName=SEN_GND Pin=U1-27
+Added Net: Name=SEN_GND
+Added Room: Name=AT90PWM_PCB

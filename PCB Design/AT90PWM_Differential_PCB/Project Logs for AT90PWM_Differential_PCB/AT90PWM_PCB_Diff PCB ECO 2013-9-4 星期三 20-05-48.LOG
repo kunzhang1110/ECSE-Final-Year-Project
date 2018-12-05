@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=MOSI_A Pin=JTAG-1
+Removed Pin From Net: NetName=5V Pin=JTAG-2
+Removed Pin From Net: NetName=DGND Pin=JTAG-4
+Removed Pin From Net: NetName=\R\E\S\E\T\ Pin=JTAG-5
+Removed Pin From Net: NetName=DGND Pin=JTAG-6
+Removed Pin From Net: NetName=SCK_A Pin=JTAG-7
+Removed Pin From Net: NetName=DGND Pin=JTAG-8
+Removed Pin From Net: NetName=MISO_A Pin=JTAG-9
+Removed Pin From Net: NetName=DGND Pin=JTAG-10
+Removed Pin From Net: NetName=5V Pin=P3-3
+Removed Pin From Net: NetName=VL Pin=P4-1
+Removed Pin From Net: NetName=UL Pin=P4-2
+Removed Pin From Net: NetName=VH Pin=P4-3
+Removed Pin From Net: NetName=UH Pin=P4-4
+Removed Pin From Net: NetName=WH Pin=P4-5
+Removed Pin From Net: NetName=WL Pin=P4-6
+Removed Member From Class: ClassName=AT90PWM_PCB Member=P4
+Added Component: Designator=J?(DSUB1.385-2H9)
+Added Pin To Net: NetName=SCK_A Pin=JTAG-1
+Added Pin To Net: NetName=DGND Pin=JTAG-2
+Added Pin To Net: NetName=MISO_A Pin=JTAG-3
+Added Pin To Net: NetName=5V Pin=JTAG-4
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=JTAG-6
+Added Pin To Net: NetName=MOSI_A Pin=JTAG-9
+Change Net Name : Old Net Name=FO New Net Name=VFO
+Change Class Name : Old Net Name=AT90PWM_PCB New Net Name=AT90PWM_PCB_Diff
+Added Member To Class: ClassName=AT90PWM_PCB_Diff Member=Component J? D Connector 9
+Added Room: Name=AT90PWM_PCB_Diff

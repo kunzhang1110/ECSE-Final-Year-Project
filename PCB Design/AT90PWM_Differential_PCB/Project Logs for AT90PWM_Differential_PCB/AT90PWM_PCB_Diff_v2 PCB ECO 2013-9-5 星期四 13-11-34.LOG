@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VL Pin=J?-1
+Removed Pin From Net: NetName=WH Pin=J?-2
+Removed Pin From Net: NetName=5V Pin=J?-3
+Removed Pin From Net: NetName=UH Pin=J?-4
+Removed Pin From Net: NetName=VH Pin=J?-6
+Removed Pin From Net: NetName=VFO Pin=J?-7
+Removed Pin From Net: NetName=UL Pin=J?-8
+Added Pin To Net: NetName=UL Pin=J?-1
+Added Pin To Net: NetName=UH Pin=J?-2
+Added Pin To Net: NetName=WH Pin=J?-4
+Added Pin To Net: NetName=VL Pin=J?-6
+Added Pin To Net: NetName=VH Pin=J?-7
+Added Pin To Net: NetName=5V Pin=J?-8
+Added Pin To Net: NetName=DGND Pin=U1-13
+Added Room: Name=AT90PWM_PCB_Diff

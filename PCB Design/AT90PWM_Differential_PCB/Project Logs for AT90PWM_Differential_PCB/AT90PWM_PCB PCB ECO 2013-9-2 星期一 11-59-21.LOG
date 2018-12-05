@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=SEN_GND1 Pin=P1-1
+Added Pin To Net: NetName=SEN_GND1 Pin=U1-27
+Added Net: Name=SEN_GND1
+Added Pin To Net: NetName=SEN_GND2 Pin=P2-1
+Added Pin To Net: NetName=SEN_GND2 Pin=U1-21
+Added Net: Name=SEN_GND2
+Added Room: Name=AT90PWM_PCB

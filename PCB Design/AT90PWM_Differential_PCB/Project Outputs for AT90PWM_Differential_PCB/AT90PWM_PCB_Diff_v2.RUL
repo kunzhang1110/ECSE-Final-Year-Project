@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: G:\FYP (Kun 2013 9 2)\Board\AT90PWM_Differential_PCB\AT90PWM_PCB_Diff_v2.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

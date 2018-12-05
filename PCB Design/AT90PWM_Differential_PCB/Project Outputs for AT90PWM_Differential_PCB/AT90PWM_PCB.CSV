@@ -1,0 +1,12 @@
+"Bill of Material for AT90PWM_PCB.PcbDoc"
+"On 2013/9/2 ÐÇÆÚÒ» at 22:09:55"
+
+"Comment","Pattern","Quantity","Components"
+
+"AT90PWM3","AT90PWM3B","1","U1",""
+"Cap","NPolar_Cap","2","C1, C2","Capacitor"
+"Header 1","HDR1X2","1","P1","Header, 2-Pin"
+"Header 2","HDR1X2","1","P2","Header, 2-Pin"
+"Header 3","HDR1X3","1","P3","Header, 3-Pin"
+"Header 3X2","HDR2X3","1","P4","Header, 3-Pin, Dual row"
+"Header 5X2","HDR2X5","1","JTAG","Header, 5-Pin, Dual row"

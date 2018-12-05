@@ -1,0 +1,20 @@
+Component Name : ACS711
+
+Part Count : 2
+
+Part : CSen?
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : CSen?
+     Pins - (Normal) : 8
+          IP+            1              Passive
+          IP+            2              Passive
+          IP-            3              Passive
+          IP-            4              Passive
+          VCC            8              Passive
+          VIOUT          7              Passive
+          FILTER         6              Passive
+          GND            5              Passive
+          Hidden Pins : 
+

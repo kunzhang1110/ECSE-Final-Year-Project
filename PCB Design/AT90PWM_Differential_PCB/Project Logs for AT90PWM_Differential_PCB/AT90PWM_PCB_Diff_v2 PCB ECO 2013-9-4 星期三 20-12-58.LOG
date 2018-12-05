@@ -1,0 +1,22 @@
+Added Component: Designator=U1(AT90PWM3B)
+Added Pin To Net: NetName=UH Pin=U1-1
+Added Pin To Net: NetName=VH Pin=U1-2
+Added Pin To Net: NetName=\R\E\S\E\T\ Pin=U1-3
+Added Pin To Net: NetName=MISO_A Pin=U1-5
+Added Pin To Net: NetName=MOSI_A Pin=U1-6
+Added Pin To Net: NetName=VFO Pin=U1-7
+Added Pin To Net: NetName=5V Pin=U1-8
+Added Pin To Net: NetName=DGND Pin=U1-9
+Added Pin To Net: NetName=WH Pin=U1-12
+Added Pin To Net: NetName=WL Pin=U1-13
+Added Pin To Net: NetName=SCK_A Pin=U1-16
+Added Pin To Net: NetName=SEN_GND2 Pin=U1-21
+Added Pin To Net: NetName=ISEN_2 Pin=U1-22
+Added Pin To Net: NetName=5V Pin=U1-23
+Added Pin To Net: NetName=AGND Pin=U1-24
+Added Pin To Net: NetName=NetC2_2 Pin=U1-25
+Added Pin To Net: NetName=SEN_GND1 Pin=U1-27
+Added Pin To Net: NetName=ISEN_1 Pin=U1-28
+Added Pin To Net: NetName=VL Pin=U1-31
+Added Pin To Net: NetName=UL Pin=U1-32
+Added Member To Class: ClassName=AT90PWM_PCB_Diff Member=Component U1 AT90PWM3

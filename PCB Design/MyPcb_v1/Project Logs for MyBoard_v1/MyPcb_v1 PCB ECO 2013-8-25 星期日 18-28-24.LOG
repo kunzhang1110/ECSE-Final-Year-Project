@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=PGND Pin=C13-2
+Removed Pin From Net: NetName=PGND Pin=R7-1
+Removed Pin From Net: NetName=I_RETURN Pin=R7-2
+Removed Member From Class: ClassName=MyBoard_v1 Member=R7
+Change Component DesignItemId : Designator=C13 Old DesignItemId=Cap2 New DesignItemId=Cap
+Change Component Footprint: Designator=C13 Old Footprint=CAPR5-4X5 New Footprint=RAD-0.3
+Change Component Comment : Designator=C13 Old Comment=Cap2 New Comment=Cap
+Added Component: Designator=Arduino(HDR2X4)
+Added Component: Designator=C4(RAD-0.3)
+Added Component: Designator=C15(RAD-0.3)
+Added Component: Designator=C16(RAD-0.3)
+Added Component: Designator=C18(RAD-0.3)
+Added Component: Designator=C19(CAPR5-4X5)
+Added Component: Designator=C20(RAD-0.3)
+Added Component: Designator=C21(CAPR5-4X5)
+Added Component: Designator=C22(RAD-0.3)
+Added Component: Designator=C23(CAPR5-4X5)
+Added Component: Designator=R8(AXIAL-0.3)
+Added Component: Designator=Term1(Terminal Block 2 Pin)
+Added Component: Designator=Term2(Terminal Block 3 Pin)
+Added Pin To Net: NetName=UH Pin=Arduino-1
+Added Pin To Net: NetName=UL Pin=Arduino-2
+Added Pin To Net: NetName=WH Pin=Arduino-3
+Added Pin To Net: NetName=WL Pin=Arduino-4
+Added Pin To Net: NetName=VH Pin=Arduino-5
+Added Pin To Net: NetName=VL Pin=Arduino-6
+Added Pin To Net: NetName=DGND Pin=Arduino-7
+Added Pin To Net: NetName=AGND Pin=Arduino-8
+Added Pin To Net: NetName=DGND Pin=C4-1
+Added Pin To Net: NetName=PGND Pin=C13-1
+Added Pin To Net: NetName=PGND Pin=C15-1
+Added Pin To Net: NetName=I_RETURN Pin=C15-2
+Added Pin To Net: NetName=DGND Pin=C16-1
+Added Pin To Net: NetName=5V Pin=R8-2
+Added Pin To Net: NetName=5V Pin=Reg1-2
+Added Pin To Net: NetName=DGND Pin=Reg1-3
+Added Pin To Net: NetName=15V Pin=Reg2-2
+Added Pin To Net: NetName=DGND Pin=Reg2-3
+Change Net Name : Old Net Name=I_RETURN New Net Name=NetC15_2
+Change Net Name : Old Net Name=IFB_1- New Net Name=UOUT
+Change Net Name : Old Net Name=IFB_2- New Net Name=VOUT
+Change Net Name : Old Net Name=NetPMod_26 New Net Name=WOUT
+Added Pin To Net: NetName=FO Pin=C4-2
+Added Pin To Net: NetName=FO Pin=PMod-6
+Added Pin To Net: NetName=FO Pin=R8-1
+Added Pin To Net: NetName=FO Pin=U1-7
+Added Net: Name=FO
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=PMod-27
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=PMod-7
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=UOUT' Pin=CSen1-1
+Added Pin To Net: NetName=UOUT' Pin=CSen1-2
+Added Pin To Net: NetName=UOUT' Pin=PMod-24
+Added Net: Name=UOUT'
+Added Pin To Net: NetName=VB(U) Pin=C18-2
+Added Pin To Net: NetName=VB(U) Pin=C19-1
+Added Pin To Net: NetName=VB(U) Pin=PMod-11
+Added Net: Name=VB(U)
+Added Pin To Net: NetName=VB(V) Pin=C20-2
+Added Pin To Net: NetName=VB(V) Pin=C21-1
+Added Pin To Net: NetName=VB(V) Pin=PMod-15
+Added Net: Name=VB(V)
+Added Pin To Net: NetName=VB(W) Pin=C22-2
+Added Pin To Net: NetName=VB(W) Pin=C23-1
+Added Pin To Net: NetName=VB(W) Pin=PMod-19
+Added Net: Name=VB(W)
+Added Pin To Net: NetName=VOUT' Pin=CSen2-1
+Added Pin To Net: NetName=VOUT' Pin=CSen2-2
+Added Pin To Net: NetName=VOUT' Pin=PMod-25
+Added Net: Name=VOUT'
+Added Pin To Net: NetName=VS(U) Pin=C18-1
+Added Pin To Net: NetName=VS(U) Pin=C19-2
+Added Pin To Net: NetName=VS(U) Pin=PMod-12
+Added Net: Name=VS(U)
+Added Pin To Net: NetName=VS(V) Pin=C20-1
+Added Pin To Net: NetName=VS(V) Pin=C21-2
+Added Pin To Net: NetName=VS(V) Pin=PMod-16
+Added Net: Name=VS(V)
+Added Pin To Net: NetName=VS(W) Pin=C22-1
+Added Pin To Net: NetName=VS(W) Pin=C23-2
+Added Pin To Net: NetName=VS(W) Pin=PMod-20
+Added Net: Name=VS(W)
+Added Member To Class: ClassName=MyBoard_v1 Member=Component Arduino Header 4X2
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C4 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C15 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C16 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C18 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C19 Cap2
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C20 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C21 Cap2
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C22 Cap
+Added Member To Class: ClassName=MyBoard_v1 Member=Component C23 Cap2
+Added Member To Class: ClassName=MyBoard_v1 Member=Component R8 Res1
+Added Member To Class: ClassName=MyBoard_v1 Member=Component Term1 Terminal Block 2P
+Added Member To Class: ClassName=MyBoard_v1 Member=Component Term2 Terminal Block 3P
+Added Room: Name=MyBoard_v1

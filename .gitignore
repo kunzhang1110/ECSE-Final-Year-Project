@@ -1,0 +1,10 @@
+#exclude
+*.zip
+*.pptx
+*.tmp
+*.pdf
+/Datasheets
+/Past Exams
+/Miscs
+/Ref
+Final Year Project Main Report.doc

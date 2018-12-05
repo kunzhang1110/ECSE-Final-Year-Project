@@ -1,0 +1,5 @@
+Added Component: Designator=Reg2(U7800)
+Added Pin To Net: NetName=24V Pin=Reg2-1
+Added Pin To Net: NetName=15V Pin=Reg2-2
+Added Pin To Net: NetName=DGND Pin=Reg2-3
+Added Member To Class: ClassName=PowerModule_Schematic Member=Component Reg2 U7815

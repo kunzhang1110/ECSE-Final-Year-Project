@@ -1,0 +1,211 @@
+*************************************************************
+FileName = AT90PWM_PCB_Diff_v2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : AT90PWM_PCB_Diff_v2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : AT90PWM_PCB_Diff_v2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : AT90PWM_PCB_Diff_v2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : AT90PWM_PCB_Diff_v2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : AT90PWM_PCB_Diff_v2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D12
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : AT90PWM_PCB_Diff_v2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : AT90PWM_PCB_Diff_v2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : AT90PWM_PCB_Diff_v2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : AT90PWM_PCB_Diff_v2.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : AT90PWM_PCB_Diff_v2.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D22
+    D23
+    D25
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : AT90PWM_PCB_Diff_v2.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D22
+*************************************************************
+

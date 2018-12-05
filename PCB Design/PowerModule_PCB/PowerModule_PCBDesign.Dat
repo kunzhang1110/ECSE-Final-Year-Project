@@ -1,0 +1,10 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PowerModule.PrjPcb|ReportField=ProjectFullPath~E:\FYP (Kun 2013 7 15)\Board\PowerModule_PCB\PowerModule.PrjPcb|ReportField=Title~Bill of Materials For PCB Document [PowerModule_PCBDesign.PcbDoc]|ReportField=TotalQuantity~32|ReportField=ReportTime~10:30:17|ReportField=ReportDate~2013/9/2 星期一|ReportField=ReportDateTime~2013/9/2 星期一 10:30:17|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=DataSourceFileName~PowerModule_PCBDesign.PcbDoc|ReportField=DataSourceFullPath~E:\FYP (Kun 2013 7 15)\Board\PowerModule_PCB\PowerModule_PCBDesign.PcbDoc
+Cap|Capacitor|C1, C2, C3, C4, C5, C6, C7, C8, C9, C11, C12, C14, C16, C18|NPolar_Cap|Cap|14
+Cap2|Capacitor|C13, C15, C17|Polar_Cap|Cap2|3
+Header 2|Header, 2-Pin|Fault_Out|HDR1X2|Header 2|1
+FSBB15CH60C||PMod|FSBB20CH60F|FSBB15CH60C|1
+Header 4X2|Header, 4-Pin, Dual row|PWM_IN|HDR2X4|Header 4X2|1
+Res1|Resistor|R1, R2, R3, R4, R5, R6, R8, R9, R10|AXIAL-0.3|Res1|9
+U7800||Reg2|U7800|U7800|1
+Terminal Block 2P||Term1|Terminal Block 2 Pin|Terminal Block 2P|1
+Terminal Block 3P||Term2|Terminal Block 3 Pin|Terminal Block 3P|1

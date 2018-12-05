@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=15V Pin=PWM_IN-8
+Added Pin To Net: NetName=24V Pin=PWM_IN-8
+Added Net: Name=24V
+Added Room: Name=PowerModule_Schematic

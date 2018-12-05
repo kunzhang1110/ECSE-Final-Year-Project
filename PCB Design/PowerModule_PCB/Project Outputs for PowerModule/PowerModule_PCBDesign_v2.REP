@@ -1,0 +1,270 @@
+*************************************************************
+FileName = PowerModule_PCBDesign_v2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Layer
+      File : PowerModule_PCBDesign_v2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 1
+      File : PowerModule_PCBDesign_v2.GP1
+
+    Adding Layer      : Internal Plane 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Internal Plane 2
+      File : PowerModule_PCBDesign_v2.GP2
+
+    Adding Layer      : Internal Plane 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PowerModule_PCBDesign_v2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PowerModule_PCBDesign_v2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PowerModule_PCBDesign_v2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PowerModule_PCBDesign_v2.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PowerModule_PCBDesign_v2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PowerModule_PCBDesign_v2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PowerModule_PCBDesign_v2.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 2
+      File : PowerModule_PCBDesign_v2.GM2
+
+    Adding Layer      : Mechanical 2
+
+
+Used DCodes :
+    D36
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PowerModule_PCBDesign_v2.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PowerModule_PCBDesign_v2.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D35
+    D36
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PowerModule_PCBDesign_v2.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D35
+*************************************************************
+

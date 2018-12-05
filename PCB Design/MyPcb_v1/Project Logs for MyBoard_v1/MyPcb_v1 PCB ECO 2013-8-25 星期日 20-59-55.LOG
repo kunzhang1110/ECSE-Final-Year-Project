@@ -1,0 +1,5 @@
+Change Component DesignItemId : Designator=Term3 Old DesignItemId=Terminal Block 2P New DesignItemId=Terminal Block 3P
+Change Component Footprint: Designator=Term3 Old Footprint=Terminal Block 2 Pin New Footprint=Terminal Block 3 Pin
+Change Component Comment : Designator=Term3 Old Comment=Terminal Block 2P New Comment=Terminal Block 3P
+Added Pin To Net: NetName=DGND Pin=Term3-3
+Added Room: Name=MyBoard_v1

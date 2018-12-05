@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=PGND Pin=Term1-2
+Added Pin To Net: NetName=UOUT Pin=Term2-1
+Added Pin To Net: NetName=VOUT Pin=Term2-2
+Added Pin To Net: NetName=WOUT Pin=Term2-3
+Added Pin To Net: NetName=5V Pin=Term3-1
+Added Pin To Net: NetName=15V Pin=Term3-2
+Added Pin To Net: NetName=V_DC Pin=Term1-1
+Added Net: Name=V_DC
+Added Room: Name=MyBoard_v1

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ISEN_1 Pin=P1-1
+Removed Pin From Net: NetName=ISEN_1 Pin=U1-17
+Change Component Comment : Designator=P1 Old Comment=Header 2 New Comment=Header 1
+Added Pin To Net: NetName=AGND Pin=P1-1
+Added Pin To Net: NetName=ISEN_1 Pin=P1-2
+Added Pin To Net: NetName=AGND Pin=P2-1
+Added Pin To Net: NetName=AGND Pin=U1-21
+Added Pin To Net: NetName=AGND Pin=U1-27
+Added Pin To Net: NetName=ISEN_1 Pin=U1-28
+Change Net Name : Old Net Name=REF_2 New Net Name=ISEN_2
+Added Room: Name=AT90PWM_PCB

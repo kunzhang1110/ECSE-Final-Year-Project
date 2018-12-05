@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Project [AT90PWM_Differential_PCB.PrjPcb]
+   Generated File[AT90PWM_PCB_Diff_v2.GTL]
+   Generated File[AT90PWM_PCB_Diff_v2.GBL]
+   Generated File[AT90PWM_PCB_Diff_v2.GPB]
+   Generated File[AT90PWM_PCB_Diff_v2.GPT]
+   Generated File[AT90PWM_PCB_Diff_v2.GTO]
+   Generated File[AT90PWM_PCB_Diff_v2.GTP]
+   Generated File[AT90PWM_PCB_Diff_v2.GTS]
+   Generated File[AT90PWM_PCB_Diff_v2.GBS]
+   Generated File[AT90PWM_PCB_Diff_v2.GKO]
+   Generated File[AT90PWM_PCB_Diff_v2.GD1]
+   Generated File[AT90PWM_PCB_Diff_v2.GG1]
+   Generated File[AT90PWM_PCB_Diff_v2.RUL]
+   Generated File[AT90PWM_PCB_Diff_v2.EXTREP]
+   Generated File[AT90PWM_PCB_Diff_v2.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 19:37:24 On 2013/9/18 ÐÇÆÚÈý

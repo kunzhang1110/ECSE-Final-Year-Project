@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=PGND Pin=C11-1
+Added Pin To Net: NetName=NetPMod_21 Pin=C11-1
+Change Net Name : Old Net Name=NetPMod_21 New Net Name=N_COM
+Added Room: Name=PowerModule_Schematic
